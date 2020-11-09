@@ -1,3 +1,6 @@
 saya berhasil membuka git
 
 sengaja kehapus
+
+test
+test
