@@ -1,1 +1,3 @@
 saya berhasil membuka git
+
+sengaja kehapus
